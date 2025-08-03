@@ -1,0 +1,19 @@
+Descrição,Valor Estimado (R$),Observações
+Consultoria e Desenvolvimento,15000.0,Consultoria para planejar e executar a implementação.
+Licenciamento AWS (Ferramentas AWS),10000.0,"Licenciamento para uso de AWS Lambda, DynamoDB, S3 e EC2."
+Treinamento da Equipe,5000.0,Custo de treinamento para equipe interna.
+"Infraestrutura Inicial (Servidores, Redes)",8000.0,Infraestrutura necessária para a implementação.
+Outros Custos de Implementação,3000.0,Custos diversos de adaptação tecnológica.
+TOTAL DE CUSTOS DE IMPLEMENTAÇÃO,41000.0,Total de custos para a implementação inicial.
+"Serviços AWS (Lambda, DynamoDB, EC2, S3)",3500.0,Custo mensal para uso de serviços AWS.
+Manutenção e Suporte Técnico,2000.0,Custo mensal para suporte técnico.
+Custo de Funcionários (Equipe Interna),5000.0,Custos mensais com a equipe interna.
+Outros Custos Operacionais,1000.0,Outros custos operacionais diversos.
+TOTAL DE CUSTOS OPERACIONAIS MENSAIS,11500.0,Total de custos mensais operacionais.
+"Redução de Custos com Estoque (Perdas, Excesso)",30000.0,Economia com a redução de perdas e excesso de estoque.
+Redução de Custos com Infraestrutura (Servidores Físicos),20000.0,Economia com servidores físicos e infraestrutura.
+Redução de Custos com Processamento de Dados,15000.0,Economia com processamento automatizado de dados.
+Redução de Custos com Segurança e Compliance,10000.0,Economia com conformidade com a LGPD.
+TOTAL DE ECONOMIA ANUAL,75000.0,Total de economia anual prevista.
+Retorno sobre o Investimento (ROI) Estimado,182.9268292682927,Percentual de ROI com base na economia anual.
+Tempo Estimado para Retorno do Investimento,0.5466666666666666,Previsão de tempo para retorno do investimento inicial.
